@@ -1,5 +1,4 @@
 # hover board 📱
-Asteroids is famous Atari Game, from 1979 :joystick:
 
 ## Technologies used:
 
