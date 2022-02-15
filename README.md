@@ -2,7 +2,9 @@
 
 ## Demo
 
-Check it out **[here](https://anacury.github.io/js-creative/)**.
+<img align="center" src="/img/hoverboard.gif" width="450" />
+
+Check it out **[here](https://anacury.github.io/js-creative/)**
 
 ## Built with:
 
