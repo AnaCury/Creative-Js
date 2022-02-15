@@ -1,7 +1,5 @@
 # Hover board 📱
 
-## Demo
-
 <img align="center" src="/img/hoverboard.gif" width="450" />
 
 Check it out **[here](https://anacury.github.io/js-creative/)**
